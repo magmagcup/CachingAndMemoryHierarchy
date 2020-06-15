@@ -221,4 +221,4 @@ Bits per row
 
 Victoria, Cherkasova. [What are 3 types of cache memory](https://www.student-circuit.com/learning/year3/embedded-systems/what-are-three-types-of-cache-memory/). Student Circuit. Retrieved 14 June 2020.
 
-"Threads" by Paruj Ratanaworabhan
+"Cache" by Paruj Ratanaworabhan
