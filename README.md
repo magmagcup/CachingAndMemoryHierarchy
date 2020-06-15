@@ -69,24 +69,24 @@ Memory Hierarchy Design, GeeksforGeeks</p>
 
 
 
-    *   The tendency of a processor to access the same set of memory locations repetitively over a short period of time.
-    *   **Type of locality**
-        *   Temporal locality
-            *   If a particular memory location is referenced, it is likely to be referenced again soon.
-        *   Spatial locality
-            *   If a particular storage location is referenced, it is likely that other memory nearby will be referenced soon.
-        *   Branch locality
-            *   If there are only a few possible alternatives for the prospective part of the path in the spatial-temporal coordinate space.
-            *   Loop has a simple structure or the possible outcome of a small system of conditional branching instructions is restricted to a small set of possibility
-            *   Not a spatial locality because there are few possibilities that can be located far away from each other.
-        *   Equidistant locality
-            *   Halfway between the spatial locality and the branch locality.
-            *   Consider a loop accessing locations in an equidistant pattern, a path in the spatial-temporal coordinate space is a dotted line.
+*   The tendency of a processor to access the same set of memory locations repetitively over a short period of time.
+*   **Type of locality**
+    *   Temporal locality
+        *   If a particular memory location is referenced, it is likely to be referenced again soon.
+    *   Spatial locality
+        *   If a particular storage location is referenced, it is likely that other memory nearby will be referenced soon.
+    *   Branch locality
+        *   If there are only a few possible alternatives for the prospective part of the path in the spatial-temporal coordinate space.
+        *   Loop has a simple structure or the possible outcome of a small system of conditional branching instructions is restricted to a small set of possibility
+        *   Not a spatial locality because there are few possibilities that can be located far away from each other.
+    *   Equidistant locality
+        *   Halfway between the spatial locality and the branch locality.
+        *   Consider a loop accessing locations in an equidistant pattern, a path in the spatial-temporal coordinate space is a dotted line.
 
 
 ## Spatial and temporal locality usage
 
-	Memory hierarchy
+Memory hierarchy
 
 
 
